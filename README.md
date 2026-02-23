@@ -7,13 +7,13 @@ I build scalable, high-performance data infrastructure that transforms complex r
 
 ### 🛠 My Technical Toolkit
 
-* Data Warehousing:** Snowflake (Expert), Redshift, Oracle and Postgres.
-* Transformation & Modeling:** dbt (Core, Cloud), SQL (Advanced Optimization).
-* Integration & ETL/ELT: Fivetran, Airbyte, Meltano, Make, Hightouch, Celigo (integrator.io).
-* Orchestration:** Airflow, Dagster, Prefect.
-* AI & ML Ops:** Snowflake Cortex, LLM Orchestration (Text-to-SQL), AWS ECS/Fargate.
-* Languages:** SQL, Python, Bash.
-* BI & Semantic Layers:** Tableau, Omni Analytics, Power BI.
+* **Data Warehousing:** Snowflake (Expert), Redshift, Oracle and Postgres.
+* **Transformation & Modeling:** dbt (Core, Cloud), SQL (Advanced Optimization).
+* **Integration & ETL/ELT:** Fivetran, Airbyte, Meltano, Make, Hightouch, Celigo (integrator.io).
+* **Orchestration:** Airflow, Dagster, Prefect.
+* **AI & ML Ops:** Snowflake Cortex, LLM Orchestration (Text-to-SQL), AWS ECS/Fargate.
+* **Languages:** SQL, Python, Bash.
+* **BI & Semantic Layers:** Tableau, Omni Analytics, Power BI.
 
 ---
 
